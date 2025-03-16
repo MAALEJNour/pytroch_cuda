@@ -93,4 +93,4 @@ Once opened:
 
 Run the Python code by clicking on the Red Squared Button
 
-<img  src= "cloud_setup_10.png" width=50% height=50%> 
+<img  src= "cloud_setup_10.png"> 
