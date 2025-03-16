@@ -77,15 +77,15 @@ Copy and paste the provided link into your web browser:
 
 Once opened: 
 
-<img src= "https://github.com/MAALEJNour/pytroch_cuda/blob/c734a251f64531e47f85085cf7e98a3dd23d0a7e/Screenshot%202025-03-16%20135721.png" width=50% height=50%>
+<img src= "https://github.com/MAALEJNour/pytroch_cuda/blob/c734a251f64531e47f85085cf7e98a3dd23d0a7e/Screenshot%202025-03-16%20135721.png">
 
 * Click New Notebook: 
 
-<img src= "https://github.com/MAALEJNour/pytroch_cuda/blob/4e15183e2365e2f06ba0bfca433bac303d1682d2/Screenshot%202025-03-16%20140159.png" width=50% height=50%>
+<img src= "https://github.com/MAALEJNour/pytroch_cuda/blob/4e15183e2365e2f06ba0bfca433bac303d1682d2/Screenshot%202025-03-16%20140159.png">
 
 * Select the PyKernel to start coding: 
 
-<img src= "https://github.com/MAALEJNour/pytroch_cuda/blob/51cfb36941e06c7917028dca8709537e7000f6f9/Screenshot%202025-03-16%20140607.png" width=50% height=50%>
+<img src= "https://github.com/MAALEJNour/pytroch_cuda/blob/51cfb36941e06c7917028dca8709537e7000f6f9/Screenshot%202025-03-16%20140607.png">
 
 ## You can now start coding !
 
