@@ -62,7 +62,7 @@ docker images
 
 To start a container with Jupyter Notebook, use:
 ```shell
-docker run -it -p 8888:8888 --gpus all maalejnour/pytorch_cuda:latest
+docker run -p 8888:8888 --gpus all maalejnour/pytorch_cuda:latest
 ```
 You'll see an output like this with a Jupyter Notebook URL:
 
